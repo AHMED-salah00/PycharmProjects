@@ -1,6 +1,6 @@
-## This repo has two main packages: TreeVirtualizer, and TreeCalculator
+## This repo has two main packages: Treevisualizer, and TreeCalculator
 
-### TreeVirtualizer :-
+### Treevisualizer :-
 
 #### Running and usage:
 This packages visualizes the way that elements are added to a tree step by step

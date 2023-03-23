@@ -1,6 +1,6 @@
-## This repo has two main packages: Treevisualizer, and TreeCalculator
+## This repo has two main packages: TreeVisualizer, and TreeCalculator
 
-### Treevisualizer :-
+### TreeVisualizer :-
 
 #### Running and usage:
 This packages visualizes the way that elements are added to a tree step by step
@@ -9,7 +9,7 @@ This packages visualizes the way that elements are added to a tree step by step
 </br> Run this code in your terminal:
 </br>`pip install binarytree==5.1.0`
 
-- You can now run `treevirtualizer`.
+- You can now run `treeVisualizer`.
 
 ### TreeCalculator :-
 This package is actually a calculator that uses the input expression to construct a tree
